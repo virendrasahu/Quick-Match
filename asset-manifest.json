@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Quick-Match/static/css/main.3e871f34.css",
+    "main.js": "/Quick-Match/static/js/main.a1d66bd7.js",
+    "static/js/453.e604f9cb.chunk.js": "/Quick-Match/static/js/453.e604f9cb.chunk.js",
+    "index.html": "/Quick-Match/index.html",
+    "main.3e871f34.css.map": "/Quick-Match/static/css/main.3e871f34.css.map",
+    "main.a1d66bd7.js.map": "/Quick-Match/static/js/main.a1d66bd7.js.map",
+    "453.e604f9cb.chunk.js.map": "/Quick-Match/static/js/453.e604f9cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e871f34.css",
+    "static/js/main.a1d66bd7.js"
+  ]
+}
